@@ -181,7 +181,13 @@ Technologies used or explored across my development projects.
   <a href="https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml"><img src="https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml/badge.svg" alt="Contribution animation workflow"/></a>
 </p>
 
-The animation is generated from my GitHub contribution history.
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake.svg">
+  <img alt="Animated snake traversing my GitHub contribution grid" width="100%" src="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake.svg">
+</picture>
+
+Generated from GitHub contribution history and refreshed daily.
 
 [View animation workflow](https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml)
 
