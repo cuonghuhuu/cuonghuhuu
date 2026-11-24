@@ -3,10 +3,10 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:6366F1&height=230&section=header&text=LE%20VAN%20CUONG&fontSize=48&fontColor=FFFFFF&fontAlignY=35&desc=AI%20Engineering%20%7C%20Research%20%7C%20Software%20Development&descSize=16&descAlignY=56&animation=fadeIn"/>
+<img width="100%" src="assets/banner.svg" alt="Le Van Cuong — AI Engineering and Software Development"/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Aspiring+AI+Engineer;Undergraduate+Researcher;AI+Agents+%26+Vietnamese+NLP;Building+Intelligent+Software;Keep+Learning+Keep+Building" alt="Typing SVG"/>
+<a href="https://github.com/DenverCoder1/readme-typing-svg">
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;weight=600&amp;size=22&amp;duration=2800&amp;pause=950&amp;color=0EA5E9&amp;center=true&amp;vCenter=true&amp;width=650&amp;lines=Aspiring+AI+Engineer;Vietnamese+NLP+Research;AI+Agents+%26+Developer+Tools;Building+Intelligent+Systems" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -22,8 +22,6 @@
 </a>
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=cuonghuhuu&label=Profile%20Views&color=0891b2&style=flat" alt="Profile views"/>
 
 </div>
 
@@ -50,7 +48,7 @@ natural language processing, and software architecture.
 
 <!-- CURRENT FOCUS -->
 
-## Current Focus
+## Research & Development Focus
 
 | Domain | Research & Development Interests |
 | :--- | :--- |
@@ -126,47 +124,13 @@ Vietnamese language models, and evaluation methodologies.
 
 Technologies used or explored across my development projects.
 
-### Programming Languages
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,java,js,ts&theme=dark"/>
-</p>
-
-### AI & Computer Vision
-
-<p>
-<img src="https://skillicons.dev/icons?i=python,opencv&theme=dark"/>
-</p>
-
-### Frontend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs&theme=dark"/>
-</p>
-
-### Backend Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,spring&theme=dark"/>
-</p>
-
-### Mobile Development
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,dart&theme=dark"/>
-</p>
-
-### Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,sqlite&theme=dark"/>
-</p>
-
-### Development Tools & Environment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,vscode,figma&theme=dark"/>
-</p>
+| Area | Technologies used or explored |
+| :--- | :--- |
+| Languages | <img alt="Python, Java, JavaScript, TypeScript" src="https://skillicons.dev/icons?i=python,java,js,ts&amp;theme=dark"/> |
+| AI & Vision | <img alt="OpenCV" src="https://skillicons.dev/icons?i=opencv&amp;theme=dark"/> |
+| Web & Backend | <img alt="HTML, CSS, React, Next.js, Node.js, Spring" src="https://skillicons.dev/icons?i=html,css,react,nextjs,nodejs,spring&amp;theme=dark"/> |
+| Mobile & Data | <img alt="Flutter, Dart, MySQL, SQLite" src="https://skillicons.dev/icons?i=flutter,dart,mysql,sqlite&amp;theme=dark"/> |
+| Engineering Tools | <img alt="Git, GitHub, Docker, Linux, Windows, VS Code, Figma" src="https://skillicons.dev/icons?i=git,github,docker,linux,windows,vscode,figma&amp;theme=dark"/> |
 
 ### Currently Exploring
 
@@ -209,6 +173,20 @@ Technologies used or explored across my development projects.
 
 ---
 
+<!-- CONTRIBUTION ANIMATION -->
+ 
+## Contribution Animation
+
+<p align="center">
+  <a href="https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml"><img src="https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml/badge.svg" alt="Contribution animation workflow"/></a>
+</p>
+
+The animation is generated from my GitHub contribution history.
+
+[View animation workflow](https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml)
+
+---
+
 <!-- CONNECT -->
 
 ## Connect With Me
@@ -231,4 +209,4 @@ Technologies used or explored across my development projects.
 
 <!-- FOOTER -->
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:164E63,100:6366F1&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080D19,50:164E63,100:6366F1&amp;height=90&amp;section=footer" alt="Decorative footer"/>
