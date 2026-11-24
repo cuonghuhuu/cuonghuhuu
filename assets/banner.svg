@@ -1,0 +1,24 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="310" viewBox="0 0 1200 310" role="img" aria-labelledby="title desc">
+<title id="title">Le Van Cuong — AI Engineering and Software Development</title>
+<desc id="desc">Dark navy technical portfolio banner with cyan accents.</desc>
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#0D1117"/><stop offset="1" stop-color="#13243A"/></linearGradient>
+ <linearGradient id="line"><stop stop-color="#38BDF8"/><stop offset="1" stop-color="#818CF8"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#8BA6C8" stroke-opacity=".10"/></pattern>
+</defs>
+<rect x="1" y="1" width="1198" height="308" rx="18" fill="url(#bg)" stroke="#29435D"/>
+<rect x="2" y="2" width="1196" height="306" rx="17" fill="url(#grid)"/>
+<g fill="none" stroke="#38BDF8" stroke-opacity=".22">
+ <circle cx="1027" cy="155" r="108"/><circle cx="1027" cy="155" r="78"/><circle cx="1027" cy="155" r="47"/>
+ <path d="M945 85L1106 223M945 223L1106 85M919 155H1135M1027 47V263"/>
+ <path d="M23 65V24H65M1135 286H1177V245"/>
+</g>
+<g fill="#38BDF8"><circle cx="1027" cy="155" r="6"/><circle cx="919" cy="155" r="4"/><circle cx="1106" cy="85" r="4"/><circle cx="1027" cy="263" r="4"/></g>
+<rect x="66" y="49" width="44" height="4" rx="2" fill="url(#line)"/>
+<g font-family="ui-monospace, Consolas, monospace">
+ <text x="66" y="83" font-size="18" letter-spacing="4" fill="#7DD3FC">BUILD / RESEARCH / ENGINEER</text>
+ <text x="62" y="159" font-size="65" font-weight="700" letter-spacing="1" fill="#F0F6FC">LE VAN CUONG</text>
+ <text x="66" y="205" font-size="24" fill="#B6C8DD">Aspiring AI Engineer &amp; Software Developer</text>
+ <text x="66" y="263" font-size="17" letter-spacing="2" fill="#7DD3FC">EAUT  ·  VIETNAM  /  @cuonghuhuu</text>
+</g>
+</svg>
