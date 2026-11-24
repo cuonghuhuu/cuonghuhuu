@@ -128,72 +128,30 @@ Technologies used or explored across my development projects.
 
 ## GitHub Analytics
 
-<div align="center">
+<p align="center">
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=cuonghuhuu&amp;show_icons=true&amp;hide_rank=true&amp;card_width=420&amp;custom_title=GitHub%20Overview&amp;title_color=67E8F9&amp;text_color=B9CAE3&amp;icon_color=A78BFA&amp;bg_color=0B1323&amp;border_color=33445D"/><img width="49%" height="180" src="https://github-readme-stats.vercel.app/api?username=cuonghuhuu&amp;show_icons=true&amp;hide_rank=true&amp;card_width=420&amp;custom_title=GitHub%20Overview&amp;title_color=155E75&amp;text_color=334155&amp;icon_color=635BDB&amp;bg_color=F8FAFC&amp;border_color=CBD5E1" alt="GitHub overview — public activity statistics"/></picture>
+  <picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=cuonghuhuu&amp;layout=normal&amp;langs_count=5&amp;card_width=420&amp;custom_title=Repository%20Languages&amp;title_color=67E8F9&amp;text_color=B9CAE3&amp;icon_color=A78BFA&amp;bg_color=0B1323&amp;border_color=33445D"/><img width="49%" height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuonghuhuu&amp;layout=normal&amp;langs_count=5&amp;card_width=420&amp;custom_title=Repository%20Languages&amp;title_color=155E75&amp;text_color=334155&amp;icon_color=635BDB&amp;bg_color=F8FAFC&amp;border_color=CBD5E1" alt="Most used repository languages by code size"/></picture>
+</p>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=cuonghuhuu&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Stats"/>
+<sub>Public repository statistics from GitHub Readme Stats; totals may differ from the native GitHub contribution calendar.</sub>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cuonghuhuu&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
-
-<br/>
-
-<img width="70%" src="https://streak-stats.demolab.com?user=cuonghuhuu&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
-
-</div>
-
----
-
-<!-- ACTIVITY GRAPH -->
-
-## Contribution Activity
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=cuonghuhuu&theme=tokyo-night&hide_border=true&area=true" alt="GitHub Activity Graph"/>
-
-</div>
-
----
-
-<!-- CONTRIBUTION ANIMATION -->
- 
 ## Contribution Animation
 
 <p align="center">
-  <a href="https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml"><img src="https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml/badge.svg" alt="Contribution animation workflow"/></a>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake-dark.svg"/>
+    <img alt="Animated snake traversing my GitHub contribution grid" width="100%" src="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake.svg"/>
+  </picture>
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake.svg">
-  <img alt="Animated snake traversing my GitHub contribution grid" width="100%" src="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake.svg">
-</picture>
-
-Generated from GitHub contribution history; the workflow is scheduled to refresh daily.
-
-[View animation workflow](https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml)
 
 ---
 
-<!-- CONNECT -->
+<p align="center">
+  <a href="https://github.com/cuonghuhuu?tab=repositories">Explore my repositories</a> ·
+  <a href="https://github.com/cuonghuhuu/vietnamese-semantic-similarity-research">Research</a> ·
+  <a href="https://github.com/cuonghuhuu/agentready_B2A">Open source</a>
+</p>
 
-## Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/cuonghuhuu">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://github.com/cuonghuhuu?tab=repositories">
-<img src="https://img.shields.io/badge/My_Projects-0369A1?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-<i>Keep learning. Keep building. Keep improving.</i>
-
-</div>
-
-<!-- FOOTER -->
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&amp;color=0:080D19,50:164E63,100:6366F1&amp;height=90&amp;section=footer" alt="Decorative footer"/>
+<p align="center">
+  <img width="100%" src="assets/footer.svg" alt="Keep learning. Keep building."/>
+</p>
