@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="295" viewBox="0 0 600 295" role="img" aria-labelledby="title desc">
+<title id="title">AgentReady B2A</title><desc id="desc">Agent-readable commerce data. Portable agent skills &amp; CLI. EXPERIMENTAL ALPHA.</desc>
+<defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#0B1323"/><stop offset="1" stop-color="#101D31"/></linearGradient><radialGradient id="halo"><stop stop-color="#67E8F9" stop-opacity=".13"/><stop offset="1" stop-color="#67E8F9" stop-opacity="0"/></radialGradient><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#94A3B8" stroke-opacity=".07"/></pattern></defs>
+<rect x="1" y="1" width="598" height="293" rx="15" fill="url(#bg)" stroke="#33445D" stroke-width="1.5"/>
+<rect x="3" y="3" width="594" height="289" rx="13" fill="url(#grid)"/>
+<ellipse cx="500" cy="120" rx="105" ry="110" fill="url(#halo)"/>
+<rect x="25" y="23" width="25" height="3" rx="1.5" fill="#67E8F9"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="25" y="44" fill="#67E8F9" font-size="12" font-weight="700" letter-spacing="1.2">AI AGENTS / DEV TOOLS</text><text x="573" y="43" text-anchor="end" fill="#8EA2BC" font-family="monospace" font-size="13">01 / 04</text>
+<text x="25" y="81" fill="#F0F6FC" font-size="30" font-weight="700">AgentReady B2A</text>
+<text x="25" y="154" fill="#B5C6DC" font-size="17">Agent-readable commerce data.</text><text x="25" y="175" fill="#B5C6DC" font-size="17">Portable agent skills &amp; CLI.</text>
+<rect x="25" y="213" width="74.80000000000001" height="26" rx="5" fill="#14243A" stroke="#164E63"/><text x="36" y="230" fill="#D7E4F7" font-size="12">Node.js</text><rect x="106.80000000000001" y="213" width="111.80000000000001" height="26" rx="5" fill="#14243A" stroke="#164E63"/><text x="117.80000000000001" y="230" fill="#D7E4F7" font-size="12">Agent Skills</text><rect x="225.60000000000002" y="213" width="67.4" height="26" rx="5" fill="#14243A" stroke="#164E63"/><text x="236.60000000000002" y="230" fill="#D7E4F7" font-size="12">WebMCP</text>
+<path d="M25 252H575" stroke="#34435A"/>
+<circle cx="31" cy="270" r="4" fill="#67E8F9"/><text x="43" y="275" fill="#B7C8E0" font-family="monospace" font-size="11" letter-spacing=".7">EXPERIMENTAL ALPHA</text>
+<text x="568" y="275" text-anchor="end" fill="#67E8F9" font-size="12" font-weight="700">VIEW PROJECT &#8599;</text></g>
+<g stroke="#67E8F9" fill="none" stroke-width="1.6"><path d="M450 87L500 57 550 87V145L500 175 450 145Z" stroke-opacity=".45"/><path d="M500 57V115M450 87L500 115 550 87M500 115V175M450 145L500 115 550 145" stroke-opacity=".55"/><circle cx="500" cy="115" r="19" stroke-width="1.3"/><path d="M493 115l5 5 10-11" stroke-width="2.8" stroke-linecap="round" stroke-linejoin="round"/></g><g fill="#67E8F9"><circle cx="450" cy="87" r="4"/><circle cx="500" cy="57" r="4"/><circle cx="550" cy="87" r="4"/><circle cx="550" cy="145" r="4"/><circle cx="500" cy="175" r="4"/><circle cx="450" cy="145" r="4"/></g><path d="M450 87L500 57 550 87 550 145 500 175 450 145Z" fill="none" stroke="#67E8F9" stroke-width="2.5" stroke-dasharray="12 320"><animate attributeName="stroke-dashoffset" from="0" to="-332" dur="6s" repeatCount="indefinite"/></path>
+</svg>

@@ -31,24 +31,35 @@
 
 ## About Me
 
-I'm **Le Van Cuong**, an Information Technology student at
-**East Asia University of Technology (EAUT), Vietnam**.
+I'm **Le Van Cuong**, an IT student at **East Asia University of Technology (EAUT), Vietnam**, pursuing AI engineering and software development.
 
-I am pursuing a career in **AI Engineering and Software Development**,
-with interests in applied artificial intelligence, intelligent agents,
-natural language processing, and software architecture.
+I focus on applied AI, Vietnamese NLP, agent systems, developer tooling and maintainable software architecture. Currently conducting undergraduate research on semantic similarity and developing AgentReady B2A, an experimental agent-oriented developer toolkit.
 
-- Currently conducting undergraduate research in Vietnamese NLP and semantic similarity.
-- Developing AgentReady B2A, an experimental toolkit for AI-readable commerce data.
-- Learning about LLMs, Machine Learning, AI Agents, MCP, and software system design.
-- Interested in open-source development, research collaboration, and practical AI applications.
-- Enjoy exploring open-source repositories and turning ideas into useful software.
+---
+
+<!-- FEATURED PROJECTS -->
+
+## Featured Projects
+
+Selected research and development work. Each card opens its repository.
+
+<div align="center">
+
+<a href="https://github.com/cuonghuhuu/agentready_B2A"><img width="49%" src="assets/projects/agentready.svg" alt="AgentReady B2A: Agent-readable commerce data. Portable agent skills &amp; CLI."/></a>
+<a href="https://github.com/cuonghuhuu/vietnamese-semantic-similarity-research"><img width="49%" src="assets/projects/semantic.svg" alt="Vietnamese Semantic Similarity Research: Academic text analysis for higher education."/></a>
+<br/>
+<a href="https://github.com/cuonghuhuu/ai-smart-meal-planner"><img width="49%" src="assets/projects/meal-planner.svg" alt="AI Smart Meal Planner: Intelligent meal planning &amp; nutrition workflows."/></a>
+<a href="https://github.com/cuonghuhuu/he-thong-danh-gia-dong-gop-github-bang-AI"><img width="49%" src="assets/projects/contribution.svg" alt="GitHub Contribution Analyzer: Repository contribution analysis, visualization &amp; reporting."/></a>
+
+</div>
+
+[Browse all repositories](https://github.com/cuonghuhuu?tab=repositories)
 
 ---
 
 <!-- CURRENT FOCUS -->
 
-## Research & Development Focus
+## Engineering & Research Interests
 
 | Domain | Research & Development Interests |
 | :--- | :--- |
@@ -85,36 +96,6 @@ for higher education.
 Vietnamese language models, and evaluation methodologies.
 
 [Explore Research Repository](https://github.com/cuonghuhuu/vietnamese-semantic-similarity-research)
-
----
-
-<!-- FEATURED PROJECTS -->
-
-## Featured Projects
-
-<div align="center">
-
-<a href="https://github.com/cuonghuhuu/agentready_B2A">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cuonghuhuu&repo=agentready_B2A&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/cuonghuhuu/vietnamese-semantic-similarity-research">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cuonghuhuu&repo=vietnamese-semantic-similarity-research&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/cuonghuhuu/ai-smart-meal-planner">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cuonghuhuu&repo=ai-smart-meal-planner&theme=tokyonight&hide_border=true"/>
-</a>
-<a href="https://github.com/cuonghuhuu/he-thong-danh-gia-dong-gop-github-bang-AI">
-<img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=cuonghuhuu&repo=he-thong-danh-gia-dong-gop-github-bang-AI&theme=tokyonight&hide_border=true"/>
-</a>
-
-</div>
-
-| Project | Description |
-| :--- | :--- |
-| [AgentReady B2A](https://github.com/cuonghuhuu/agentready_B2A) | Experimental developer toolkit for making public commerce data more accessible to compatible AI agents. |
-| [Vietnamese Semantic Similarity](https://github.com/cuonghuhuu/vietnamese-semantic-similarity-research) | Undergraduate research in Vietnamese semantic similarity and academic text analysis. |
-| [AI Smart Meal Planner](https://github.com/cuonghuhuu/ai-smart-meal-planner) | Intelligent meal planning application using Flutter, Java Spring Boot, MySQL, and Python. |
-| [GitHub Contribution Analyzer](https://github.com/cuonghuhuu/he-thong-danh-gia-dong-gop-github-bang-AI) | Python-based repository contribution analysis, visualization, and reporting tool. |
 
 ---
 
@@ -187,7 +168,7 @@ Technologies used or explored across my development projects.
   <img alt="Animated snake traversing my GitHub contribution grid" width="100%" src="https://raw.githubusercontent.com/cuonghuhuu/cuonghuhuu/output/github-contribution-grid-snake.svg">
 </picture>
 
-Generated from GitHub contribution history and refreshed daily.
+Generated from GitHub contribution history; the workflow is scheduled to refresh daily.
 
 [View animation workflow](https://github.com/cuonghuhuu/cuonghuhuu/actions/workflows/snake.yml)
 

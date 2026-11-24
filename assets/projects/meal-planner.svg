@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="295" viewBox="0 0 600 295" role="img" aria-labelledby="title desc">
+<title id="title">AI Smart Meal Planner</title><desc id="desc">Intelligent meal planning &amp; nutrition workflows. IN DEVELOPMENT.</desc>
+<defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#0B1323"/><stop offset="1" stop-color="#101D31"/></linearGradient><radialGradient id="halo"><stop stop-color="#6EE7B7" stop-opacity=".13"/><stop offset="1" stop-color="#6EE7B7" stop-opacity="0"/></radialGradient><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#94A3B8" stroke-opacity=".07"/></pattern></defs>
+<rect x="1" y="1" width="598" height="293" rx="15" fill="url(#bg)" stroke="#33445D" stroke-width="1.5"/>
+<rect x="3" y="3" width="594" height="289" rx="13" fill="url(#grid)"/>
+<ellipse cx="500" cy="120" rx="105" ry="110" fill="url(#halo)"/>
+<rect x="25" y="23" width="25" height="3" rx="1.5" fill="#6EE7B7"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="25" y="44" fill="#6EE7B7" font-size="12" font-weight="700" letter-spacing="1.2">APPLIED AI / MOBILE &amp; WEB</text><text x="573" y="43" text-anchor="end" fill="#8EA2BC" font-family="monospace" font-size="13">03 / 04</text>
+<text x="25" y="81" fill="#F0F6FC" font-size="30" font-weight="700">AI Smart</text><text x="25" y="115" fill="#F0F6FC" font-size="30" font-weight="700">Meal Planner</text>
+<text x="25" y="154" fill="#B5C6DC" font-size="17">Intelligent meal planning &amp;</text><text x="25" y="175" fill="#B5C6DC" font-size="17">nutrition workflows.</text>
+<rect x="25" y="213" width="74.80000000000001" height="26" rx="5" fill="#14243A" stroke="#145747"/><text x="36" y="230" fill="#D7E4F7" font-size="12">Flutter</text><rect x="106.80000000000001" y="213" width="104.4" height="26" rx="5" fill="#14243A" stroke="#145747"/><text x="117.80000000000001" y="230" fill="#D7E4F7" font-size="12">Spring Boot</text><rect x="218.20000000000002" y="213" width="67.4" height="26" rx="5" fill="#14243A" stroke="#145747"/><text x="229.20000000000002" y="230" fill="#D7E4F7" font-size="12">Python</text>
+<path d="M25 252H575" stroke="#34435A"/>
+<circle cx="31" cy="270" r="4" fill="#6EE7B7"/><text x="43" y="275" fill="#B7C8E0" font-family="monospace" font-size="11" letter-spacing=".7">IN DEVELOPMENT</text>
+<text x="568" y="275" text-anchor="end" fill="#6EE7B7" font-size="12" font-weight="700">VIEW PROJECT &#8599;</text></g>
+<g stroke="#6EE7B7" fill="none" stroke-width="1.5"><circle cx="502" cy="120" r="49" stroke-opacity=".7"/><circle cx="502" cy="120" r="36" stroke-opacity=".35"/><path d="M502 84V120L536 134" stroke-width="2.5"/><path d="M502 120L475 144" stroke-opacity=".7"/><path d="M438 83V155M431 83v22q7 10 14 0V83M560 83q-10 20 0 34v38" stroke-width="2.4" stroke-linecap="round"/><path d="M480 105Q484 94 494 101M512 140Q524 145 529 135" stroke-opacity=".7"/></g><path d="M502 72a48 48 0 0 1 44 29" fill="none" stroke="#6EE7B7" stroke-width="3" stroke-linecap="round"/>
+</svg>

@@ -22,7 +22,7 @@
 <circle cx="1001" cy="163" r="20" stroke="#38BDF8" stroke-width="1.5" fill="#0C1930"/>
 <circle cx="1001" cy="163" r="8" fill="#A5F3FC"><animate attributeName="opacity" values="1;.45;1" dur="3s" repeatCount="indefinite"/></circle>
 <g font-family="ui-monospace,Consolas,monospace">
-<text x="62" y="59" fill="#67E8F9" font-size="15" letter-spacing="3">PORTFOLIO / 02</text>
+<text x="62" y="59" fill="#67E8F9" font-size="15" letter-spacing="3">PORTFOLIO / 03</text>
 <text x="62" y="121" fill="#F1F5F9" font-family="Arial,Helvetica,sans-serif" font-size="61" font-weight="700" letter-spacing="1">LE VAN CUONG</text>
 <text x="64" y="162" fill="#B9CAE3" font-size="21">Aspiring AI Engineer &amp; Software Developer</text>
 <rect x="64" y="185" width="680" height="2" rx="1" fill="url(#accent)" opacity=".7"/>

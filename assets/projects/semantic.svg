@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="600" height="295" viewBox="0 0 600 295" role="img" aria-labelledby="title desc">
+<title id="title">Vietnamese Semantic Similarity Research</title><desc id="desc">Academic text analysis for higher education. EARLY-STAGE RESEARCH.</desc>
+<defs><linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%"><stop stop-color="#0B1323"/><stop offset="1" stop-color="#101D31"/></linearGradient><radialGradient id="halo"><stop stop-color="#C4B5FD" stop-opacity=".13"/><stop offset="1" stop-color="#C4B5FD" stop-opacity="0"/></radialGradient><pattern id="grid" width="20" height="20" patternUnits="userSpaceOnUse"><path d="M20 0H0V20" fill="none" stroke="#94A3B8" stroke-opacity=".07"/></pattern></defs>
+<rect x="1" y="1" width="598" height="293" rx="15" fill="url(#bg)" stroke="#33445D" stroke-width="1.5"/>
+<rect x="3" y="3" width="594" height="289" rx="13" fill="url(#grid)"/>
+<ellipse cx="500" cy="120" rx="105" ry="110" fill="url(#halo)"/>
+<rect x="25" y="23" width="25" height="3" rx="1.5" fill="#C4B5FD"/>
+<g font-family="Arial,Helvetica,sans-serif"><text x="25" y="44" fill="#C4B5FD" font-size="12" font-weight="700" letter-spacing="1.2">SCIENTIFIC RESEARCH / NLP</text><text x="573" y="43" text-anchor="end" fill="#8EA2BC" font-family="monospace" font-size="13">02 / 04</text>
+<text x="25" y="81" fill="#F0F6FC" font-size="30" font-weight="700">Vietnamese Semantic</text><text x="25" y="115" fill="#F0F6FC" font-size="30" font-weight="700">Similarity Research</text>
+<text x="25" y="154" fill="#B5C6DC" font-size="17">Academic text analysis for</text><text x="25" y="175" fill="#B5C6DC" font-size="17">higher education.</text>
+<rect x="25" y="213" width="126.60000000000001" height="26" rx="5" fill="#14243A" stroke="#42316A"/><text x="36" y="230" fill="#D7E4F7" font-size="12">Vietnamese NLP</text><rect x="158.60000000000002" y="213" width="97" height="26" rx="5" fill="#14243A" stroke="#42316A"/><text x="169.60000000000002" y="230" fill="#D7E4F7" font-size="12">Embeddings</text><rect x="262.6" y="213" width="82.2" height="26" rx="5" fill="#14243A" stroke="#42316A"/><text x="273.6" y="230" fill="#D7E4F7" font-size="12">Research</text>
+<path d="M25 252H575" stroke="#34435A"/>
+<circle cx="31" cy="270" r="4" fill="#C4B5FD"/><text x="43" y="275" fill="#B7C8E0" font-family="monospace" font-size="11" letter-spacing=".7">EARLY-STAGE RESEARCH</text>
+<text x="568" y="275" text-anchor="end" fill="#C4B5FD" font-size="12" font-weight="700">VIEW PROJECT &#8599;</text></g>
+<g fill="none" stroke="#C4B5FD" stroke-width="1.4"><rect x="432" y="64" width="52" height="76" rx="6" stroke-opacity=".7"/><path d="M444 82H472M444 94H468M444 106H472M444 118H461" stroke-opacity=".8" stroke-linecap="round"/><rect x="516" y="99" width="52" height="76" rx="6" stroke-opacity=".7"/><path d="M528 117H556M528 129H552M528 141H556M528 153H545" stroke-opacity=".8" stroke-linecap="round"/><path d="M484 87Q526 58 542 99M516 152Q476 181 458 140" stroke-dasharray="4 5" stroke-width="2"/><circle cx="500" cy="119" r="10"/><path d="M495 119h10M500 114v10" stroke-linecap="round"/></g><g fill="#C4B5FD"><circle cx="500" cy="119" r="3"><animate attributeName="opacity" values=".5;1;.5" dur="3s" repeatCount="indefinite"/></circle></g>
+</svg>
